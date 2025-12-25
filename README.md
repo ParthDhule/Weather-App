@@ -7,7 +7,8 @@ A simple and responsive weather application built using vanilla **HTML**, **CSS*
 
 ## 📸 Demo
 
-*(Add a screenshot of your app here)*
+<img width="1375" height="797" alt="wheater app ui" src="https://github.com/user-attachments/assets/b37c3354-81c1-4e7e-9e59-627fd0d0ea8e" />
+
 
 ## ✨ Features
 
